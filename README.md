@@ -4,10 +4,15 @@
 ### Outline:
 A General understanding of tools and layers, including how to use them
 
-* Google Safesearch for Free to use photos
-* Opening files and Layers Project
-* Selection Tools
+* Photoshop Workspace
+* Safesearch for Free to use and modify photos
+* Memorial Project
+  * Editing photo
+  * Layers
+* Selection Project
+  * Marquee and Lasso Tools
 * Layer adjustments
 * Text and Painting
 
 ### Resources: 
+![toolbar](https://image.prntscr.com/image/0-khEWh8RouzKNiCX5fKZg.jpeg)
